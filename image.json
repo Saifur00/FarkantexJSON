@@ -3,7 +3,7 @@
         "id":1,
         "type":"shorts",
         "productName": "Product-1",
-        "img": "https://images.summitmedia-digital.com/spotph/images/2019/03/14/1-1552529114.jpg"
+        "img": "../../assets/beach_shorts/beach_short1-preview.png"
       },
       {
         "id":2,
