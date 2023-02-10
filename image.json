@@ -9,55 +9,55 @@
         "id":2,
         "type":"jackets",
         "productName": "Product-2",
-        "img": "https://m.media-amazon.com/images/I/7104Or3cf6L._AC_UL1500_.jpg"
+        "img": "../../assets/beach_shorts/beach_short3-preview.png"
       },
       {
         "id":3,
         "type":"shorts",
         "productName": "Product-3",
-        "img": "https://images.summitmedia-digital.com/spotph/images/2019/03/14/1-1552529114.jpg"
+        "img": "../../assets/beach_shorts/beach_short2-preview.png"
       },
       {
         "id":4,
         "type":"jackets",
         "productName": "Product-4",
-        "img": "https://m.media-amazon.com/images/I/7104Or3cf6L._AC_UL1500_.jpg"
+        "img": "../../assets/beach_shorts/beach_short4-preview.png"
       },
       {
         "id":5,
         "type":"shorts",
         "productName": "Product-5",
-        "img": "https://images.summitmedia-digital.com/spotph/images/2019/03/14/1-1552529114.jpg"
+        "img": "../../assets/beach_shorts/beach_short5-preview.png"
       },
       {
         "id":6,
         "type":"jackets",
         "productName": "Product-6",
-        "img": "https://m.media-amazon.com/images/I/7104Or3cf6L._AC_UL1500_.jpg"
+        "img": "../../assets/beach_shorts/beach_short7-preview.png"
       },
       {
         "id":7,
         "type":"shorts",
         "productName": "Product-5",
-        "img": "https://images.summitmedia-digital.com/spotph/images/2019/03/14/1-1552529114.jpg"
+        "img": "../../assets/Jackets/TJ1.png"
       },
       {
         "id":8,
         "type":"shorts",
         "productName": "Product-5",
-        "img": "https://images.summitmedia-digital.com/spotph/images/2019/03/14/1-1552529114.jpg"
+        "img": "../../assets/Jackets/tj2.png"
       },
       {
         "id":9,
         "type":"shorts",
         "productName": "Product-5",
-        "img": "https://images.summitmedia-digital.com/spotph/images/2019/03/14/1-1552529114.jpg"
+        "img": "../../assets/Jackets/tj4.png"
       },
       {
         "id":10,
         "type":"shorts",
         "productName": "Product-5",
-        "img": "https://images.summitmedia-digital.com/spotph/images/2019/03/14/1-1552529114.jpg"
+        "img": "../../assets/Jackets/tj5.png"
       }
       
 ]
