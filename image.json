@@ -142,5 +142,41 @@
         "productName": "Product-6",
         "type":"shorts",
         "img": "shorts_array/bs01.png"
+      },
+      {
+        "id":25,
+        "productName": "Product-6",
+        "type":"tj",
+        "img": "military_array/mj08-removebg-preview.png"
+      },
+      {
+        "id":26,
+        "productName": "Product-6",
+        "type":"tj",
+        "img": "military_array/military_jacket_model-removebg-preview.png"
+      },
+      {
+        "id":27,
+        "productName": "Product-6",
+        "type":"tj",
+        "img": "military_array/mj03-removebg-preview.png"
+      },
+      {
+        "id":28,
+        "productName": "Product-6",
+        "type":"tj",
+        "img": "military_array/mj04-removebg-preview.png"
+      },
+      {
+        "id":29,
+        "productName": "Product-6",
+        "type":"tj",
+        "img": "military_array/mj05-removebg-preview.png"
+      },
+      {
+        "id":30,
+        "productName": "Product-6",
+        "type":"tj",
+        "img": "military_array/mj06-removebg-preview.png"
       }
 ]
