@@ -1,63 +1,146 @@
 [
       {
         "id":1,
-        "type":"shorts",
         "productName": "Product-1",
-        "img": "../../assets/beach_shorts/beach_short1-preview.png"
+        "type":"jackets",
+        "img": "jackets_array/jt01.png"
       },
       {
         "id":2,
-        "type":"jackets",
         "productName": "Product-2",
-        "img": "../../assets/beach_shorts/beach_short3-preview.png"
+        "type":"jackets",
+        "img": "jackets_array/jt04.png"
       },
       {
         "id":3,
-        "type":"shorts",
         "productName": "Product-3",
-        "img": "../../assets/beach_shorts/beach_short2-preview.png"
+        "type":"jackets",
+        "img": "jackets_array/jt03.png"
       },
       {
         "id":4,
-        "type":"jackets",
         "productName": "Product-4",
-        "img": "../../assets/beach_shorts/beach_short4-preview.png"
+        "type":"jackets",
+        "img": "jackets_array/jt04.png"
       },
       {
         "id":5,
-        "type":"shorts",
         "productName": "Product-5",
-        "img": "../../assets/beach_shorts/beach_short5-preview.png"
+        "type":"jackets",
+        "img": "jackets_array/jt05.png"
       },
       {
         "id":6,
-        "type":"jackets",
         "productName": "Product-6",
-        "img": "../../assets/beach_shorts/beach_short7-preview.png"
+        "type":"jackets",
+        "img": "jackets_array/jt06.png"
       },
       {
         "id":7,
-        "type":"shorts",
-        "productName": "Product-5",
-        "img": "../../assets/Jackets/TJ1.png"
+        "productName": "Product-7",
+        "type":"jackets",
+        "img": "jackets_array/jt07.png"
       },
       {
         "id":8,
-        "type":"shorts",
-        "productName": "Product-5",
-        "img": "../../assets/Jackets/tj2.png"
+        "productName": "Product-8",
+        "type":"jackets",
+        "img": "jackets_array/jt08.png"
       },
       {
         "id":9,
-        "type":"shorts",
-        "productName": "Product-5",
-        "img": "../../assets/Jackets/tj4.png"
+        "productName": "Product-9",
+        "type":"jackets",
+        "img": "jackets_array/jt09.png"
       },
       {
         "id":10,
+        "productName": "Product-10",
+        "type":"jackets",
+        "img": "jackets_array/jt10.png"
+      },
+      {
+        "id":11,
+        "productName": "Product-11",
+        "type":"jackets",
+        "img": "jackets_array/jt11.png"
+      },
+      {
+        "id":12,
+        "productName": "Product-12",
+        "type":"jackets",
+        "img": "jackets_array/jt12.png"
+      },
+      {
+        "id":13,
+        "productName": "Product-13",
+        "type":"jackets",
+        "img": "jackets_array/jt13.png"
+      },
+      {
+        "id":14,
+        "productName": "Product-14",
+        "type":"jackets",
+        "img": "jackets_array/jt14.png"
+      },
+      {
+        "id":15,
+        "productName": "Product-15",
+        "type":"jackets",
+        "img": "jackets_array/jt15.png"
+      },
+      {
+        "id":16,
+        "productName": "Product-16",
+        "type":"jackets",
+        "img": "jackets_array/jt16.png"
+      },
+      {
+        "id":17,
+        "productName": "Product-17",
+        "type":"jackets",
+        "img": "jackets_array/jt17.png"
+      },
+      {
+        "id":18,
+        "productName": "Product-18",
+        "type":"jackets",
+        "img": "jackets_array/jt18.png"
+      },
+      {
+        "id":19,
+        "productName": "Product-19",
         "type":"shorts",
+        "img": "shorts_array/bs04.png"
+      },
+      {
+        "id":20,
+        "productName": "Product-2",
+        "type":"shorts",
+        "img": "shorts_array/bs05.png"
+      },
+      {
+        "id":21,
+        "productName": "Product-3",
+        "type":"shorts",
+        "img": "shorts_array/bs06.png"
+      },
+      {
+        "id":22,
+        "productName": "Product-4",
+        "type":"shorts",
+        "img": "shorts_array/bs03.png"
+      },
+      {
+        "id":23,
         "productName": "Product-5",
-        "img": "../../assets/Jackets/tj5.png"
+        "type":"shorts",
+        "img": "shorts_array/bs02.png"
+      },
+      {
+        "id":24,
+        "productName": "Product-6",
+        "type":"shorts",
+        "img": "shorts_array/bs01.png"
       }
-      
 ]
